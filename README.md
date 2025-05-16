@@ -1,2 +1,2 @@
-# cnn-emotion-recognition-upy
-In this project, a CNN was developed to recognize emotions of persons, this is part of a workshop given on May 19th of 2025
+# Artifitial Vision Project
+In this project, a Convolutional Neural Network (CNN) was developed to recognize human emotions. This work was part of a workshop conducted on May 19th, 2025.
