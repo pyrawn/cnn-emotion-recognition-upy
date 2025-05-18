@@ -1,1 +1,6 @@
 .venv/
+.predict/
+.models/
+__pycache__/
+*.pyc
+*.h5
